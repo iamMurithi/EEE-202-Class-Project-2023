@@ -10,8 +10,7 @@ Although the game is intended to primarily be multiplayer (2-person, local), a s
 1. User Interface
 2. User Interaction
 3. Game Logic
-4. Error Handling
-5. Documentation
+4. Documentation
 
 #Files in this repo
 1. Project proposal
